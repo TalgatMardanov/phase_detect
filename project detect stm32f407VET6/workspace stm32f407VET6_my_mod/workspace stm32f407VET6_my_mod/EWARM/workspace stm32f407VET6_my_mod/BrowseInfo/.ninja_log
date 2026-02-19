@@ -1,0 +1,264 @@
+# ninja log v5
+148	269	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/tim.xcl	a50cdcb4775d8389
+1007	1309	7882643126948644	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.pbi	b0ac37bf72044907
+14	150	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.xcl	d86ef2554ddf17c
+3	239	7882788941962650	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/main.pbi	29775588371131b9
+7	188	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/rtc.xcl	2d254fdc7bc22af3
+9	163	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/main.xcl	6838478c69878204
+11	198	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/spi.xcl	8b554ee922a61856
+387	479	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/gpio.xcl	ac8d7c34bb99da1f
+2	175	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/i2c.xcl	abdede06d10841c1
+1653	1976	7882643133666523	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.pbi	f53b65d30483dda
+1026	1481	7882643128823169	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_adc.pbi	9c8ae8d0a85f801b
+186	301	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.xcl	bc47068e9a2b1859
+340	669	7882643120632065	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/usb_otg.pbi	38396b3c929b8faf
+11	335	7882643117260090	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.pbi	7ec19510dfa85c10
+699	788	7882576080000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.xcl	e6114ec484c873e0
+173	290	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/usart.xcl	31268dc46d13cb00
+590	688	7882576080000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c_ex.xcl	ccf2ea82db7e0be9
+5	138	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.xcl	7729730542f7bc90
+760	853	7882576080000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_ll_usb.xcl	55f8425640db21cc
+196	313	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/usb_otg.xcl	e071e0e103aae57c
+375	701	7882643120944469	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/spi.pbi	596d7c678ecb9501
+1805	2233	7882643136280325	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rtc.pbi	6a7bd9d078b60e6a
+160	279	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.xcl	216486ac10db2885
+705	1021	7882643124090668	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.pbi	31b5ea0e4e35bffa
+322	422	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.xcl	646806044ed1aa15
+205	325	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_adc.xcl	acef0e60c3ce4ddc
+578	671	7882576080000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.xcl	24d49cce15e096a8
+661	1080	7882643124715592	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.pbi	58abcfd0eff97f16
+311	405	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_adc_ex.xcl	a7e5b87a1a415afd
+8	342	7882643117416075	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/adc.pbi	ff64e410de30a2f1
+276	365	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_can.xcl	43b2511bd0770995
+288	378	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.xcl	29a55cc17e4169cf
+646	739	7882576080000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rtc_ex.xcl	8d3f414ee2abf7f5
+299	392	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.xcl	83d903671230976d
+1020	1452	7882643128510702	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_adc_ex.pbi	ac231767042d1247
+334	434	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/adc.xcl	8082c1d6b732635
+368	675	7882643120632065	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/usart.pbi	b605dba15a79fb96
+488	580	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.xcl	e0dbe6cc948d4df8
+375	467	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/can.xcl	c888c5cbe5bc252f
+402	496	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.xcl	d6e9e721b7edc734
+10	503	7882643210748477	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part2.pbi	b263e197fbda7eea
+413	509	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c.xcl	9df9fc2d6e3a1387
+443	535	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.xcl	816c88d89452f482
+380	695	7882643120944469	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.pbi	44b6154092b26223
+476	568	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.xcl	8dd8af199e8ee7ec
+432	522	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.xcl	901788e4e94931c5
+518	615	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.xcl	5ce19bfef0b0adbf
+1085	1428	7882643128198493	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.pbi	32326f64ef25a514
+531	627	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pcd_ex.xcl	4e8fc5c59771c56b
+546	639	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.xcl	29acc0e947f7fb6b
+506	603	7882576070000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pcd.xcl	e9c77f63b345a829
+637	751	7882576080000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.xcl	bca3113f82c4de63
+612	706	7882576080000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_spi.xcl	eb50f5dc28f47b3
+10	377	7882643117728500	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/can.pbi	ab0381b07196648f
+624	720	7882576080000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rtc.xcl	10a2c556fb13412
+680	769	7882576080000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.xcl	f4095a08690c6048
+728	823	7882576080000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.xcl	d77bd7bb2c43a6c
+717	811	7882576080000000	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_ll_adc.xcl	efff41b433370f6e
+347	657	7882643120476019	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/rtc.pbi	1ed910910029264d
+3	233	7884263792199023	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+3	316	7882678006089378	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/gpio.pbi	17a5445c51d27152
+3	401	7882657044797870	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/tim.pbi	94864d74df16872f
+680	1002	7882643123934636	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.pbi	b799602fc7d005f8
+5	358	7882643117572329	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/i2c.pbi	540299f20c151896
+1014	1334	7882643127260865	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.pbi	b36de618654e8114
+673	1009	7882643123934636	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.pbi	54d078b9092a6622
+700	1015	7882643124090668	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.pbi	e1d2b92e8e9ce14d
+712	1138	7882643125340532	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_can.pbi	64ab4d5481b0e73c
+1486	1807	7882643131947812	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rtc_ex.pbi	d35ca54440425257
+1790	2101	7882643134916384	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pcd_ex.pbi	78a4c41346b9052b
+1143	1459	7882643128510702	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.pbi	aa961b21bfa0221f
+1457	1800	7882643131947812	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pcd.pbi	2006ca3c37744001
+1339	1648	7882643130385498	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c_ex.pbi	7a18c8574bc169dd
+1433	1766	7882643131635587	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.pbi	b44565f94466b71f
+1314	1635	7882643130229249	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.pbi	8e228f367a8e50a1
+1812	2193	7882643135853590	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c.pbi	eb15948027537bbc
+1640	1992	7882643133822530	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_spi.pbi	5cdb49fc8dfdea05
+1464	1785	7882643131791544	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.pbi	eff4a7fa6c4472
+1771	2175	7882643135697481	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.pbi	3c1378d065011836
+1981	2315	7882643137061818	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.pbi	b2ba04f39b2218b3
+2509	2821	7882643142195217	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.pbi	1e41f036bbd6f0e2
+7	524	7882643210904689	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part3.pbi	a4c2acda4e2ab478
+6	514	7882643210748477	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part5.pbi	278589ab7bafe25
+2959	2978	7882576103348688	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_ll_adc.pbi	1b22b28f0be4ad43
+238	603	7884263795896870	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+12	492	7882643210748477	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part4.pbi	e06771861eeea249
+2180	2504	7882643138936364	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_ll_usb.pbi	89ecef51e5b83db0
+243	584	7882788945512875	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part0.pbi	18c8d33e3a919276
+9	397	7882643209811111	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part6.pbi	1e3051f204366486
+4	366	7884263852820482	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+378	1657	7884263865157874	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+2	247	7884264282570433	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+252	618	7884264286319482	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+628	1003	7884264290169882	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+4	1239	7884264360040718	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+4	273	7884265070272359	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+277	615	7884265073709364	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+625	974	7884265077302143	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+986	2226	7884265089284587	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+2	241	7884266419102363	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+246	617	7884266422838586	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+4	391	7884266477952370	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+402	1659	7884266490215159	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+2	236	7884266895718864	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+240	605	7884266899457032	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+3	325	7884266954779855	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+336	1573	7884266966645999	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+3	248	7884269483640810	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+252	605	7884269487234572	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+614	1004	7884269491296757	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+2	1202	7884269620968704	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+3	257	7884270227458529	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+262	694	7884270231833325	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+705	1102	7884270235895709	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+2	1192	7884270352070519	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+3	346	7884271021120137	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+351	713	7884271024792479	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+723	1106	7884271028717970	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+3	1220	7884271096421752	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+3	237	7884271708582739	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+242	624	7884271712442529	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+634	980	7884271715978530	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+992	2288	7884271728472614	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+3	256	7884272699858571	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+3	374	7884272756865506	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+383	727	7884272760458524	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+738	1972	7884272772350800	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+3	256	7884273178153325	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+3	459	7884273235624574	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+470	861	7884273239686111	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+872	2303	7884273253410651	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+2	238	7884274061444699	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+243	573	7884274064899070	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+583	912	7884274068244465	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+3	1182	7884274138159260	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+3	234	7884275048080367	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+239	562	7884275051383923	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+571	913	7884275054879436	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+924	2180	7884275067039335	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+3	244	7884277258201533	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+248	594	7884277261701818	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+3	392	7884277316183294	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+403	1629	7884277328007330	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+2	238	7884277583593857	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+242	596	7884277587218543	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+3	423	7884277643364361	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+435	1691	7884277655615983	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+3	273	7884278413867029	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+278	666	7884278417772926	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+676	1041	7884278421610176	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+1052	2278	7884278433366975	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+2	244	7884279140408949	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+2	350	7884279249010399	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+360	720	7884279252603978	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+731	1975	7884279264675926	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+2	229	7884302388638031	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+233	558	7884302391956520	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+567	887	7884302395235117	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+898	2092	7884302406739380	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+2	227	7884304077425849	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+232	556	7884304080727462	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+566	947	7884304084624074	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+3	1285	7884304159272236	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+3	264	7884305318714156	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+2	340	7884305426172001	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+349	707	7884305429924832	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+718	1950	7884305441753212	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+3	259	7884307304830395	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+264	659	7884307308892535	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+669	1059	7884307312903505	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+3	1177	7884307436157669	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+2	242	7884315391080873	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+247	602	7884315394708053	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+3	447	7884315450733672	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+459	1710	7884315462857737	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+3	241	7884316119999135	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+3	431	7884316175409295	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+441	808	7884316179159236	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+820	2068	7884316191258771	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+2	248	7884318464529115	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+254	638	7884318468430891	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+648	1029	7884318472331939	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+3	1289	7884318538583325	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+3	237	7884323775859417	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+242	576	7884323779251292	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+586	962	7884323783129089	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+973	2200	7884323794927215	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+2	241	7884326563983996	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+245	594	7884326567484163	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+604	942	7884326570981712	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+3	1320	7884326637005153	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+3	241	7884327761861230	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+246	596	7884327765413783	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+3	429	7884327820632045	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+441	1668	7884327832374459	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+3	273	7884328539911155	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+277	707	7884328544285744	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+3	358	7884328601953347	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+369	1564	7884328613453529	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+2	230	7884329471310412	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+235	554	7884329474533552	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+564	909	7884329478047341	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+920	2148	7884329489855267	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+2	241	7884329644994981	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+246	613	7884329648752312	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+3	447	7884329706073603	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+458	1729	7884329718276720	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+2	331	7884330801335181	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+335	691	7884330804932721	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+701	1087	7884330808854887	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+2	1464	7884330877049525	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+2	248	7884333243598643	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+2	328	7884333352072855	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+337	683	7884333355666434	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+694	1904	7884333367425836	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+3	237	7884334343708932	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+241	615	7884334347426371	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+625	965	7884334351000417	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+3	1328	7884334415097078	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+3	271	7884335776195353	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+276	678	7884335780257756	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+3	344	7884335835436003	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+3	1342	7884335953437138	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+2	237	7884336559718906	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+4	452	7884336617525014	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+462	847	7884336621431307	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+858	2096	7884336633517708	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+2	231	7884337390935971	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+3	459	7884337448923321	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+469	862	7884337452829564	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+3	1163	7884337521761196	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+2	236	7884339284228766	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+241	667	7884339288381066	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+3	321	7884339343056454	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+331	1529	7884339354433980	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+2	244	7884341481201273	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+249	612	7884341484880965	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+623	962	7884341488379924	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+3	1310	7884341553044280	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+3	347	7884346685169865	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+352	679	7884346688454418	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+689	1062	7884346692285577	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+3	1327	7884346762076684	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+2	248	7884348022353746	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+3	441	7884348077417043	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+451	825	7884348081298486	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+837	2061	7884348093321082	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+3	235	7884350269835513	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+239	600	7884350273482847	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+610	977	7884350277263929	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+3	1293	7884350344430340	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+2	242	7884354229555943	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+2	447	7884354287975102	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+456	849	7884354292037334	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+861	2101	7884354304056510	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+3	253	7884382225814765	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+257	646	7884382229750544	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+656	1030	7884382233600652	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+2	1310	7884382299677268	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
+3	238	7884383408517567	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	bd47fd8a36e007b5
+242	608	7884383412139216	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod_part1.pbi	3188199162af739c
+618	1060	7884383416664613	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbd	7cae76649840b58c
+2	1188	7884383484336428	D:/talgat/workspace stm32f407VET6_my_mod/EWARM/workspace stm32f407VET6_my_mod/BrowseInfo/workspace stm32f407VET6_my_mod.pbw	4011b4d6beff42a2
